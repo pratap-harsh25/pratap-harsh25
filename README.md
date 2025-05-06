@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsh Pratap Singh.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning JS, Node JS, React.
-- 💞️ I have good knowledge in Java, HTML, CSS, Bootstrap.
+- 💞️ I have good knowledge in JS, React, HTML, CSS, Bootstrap.
 - 📫 How to reach me harshpratapsingh100@gmail.com
 
 <!---
